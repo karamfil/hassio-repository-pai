@@ -1,8 +1,8 @@
 {
   "name": "Paradox Alarm Interface - 2nd",
   "version": "3.1.0",
-  "slug": "paradox_alarm_interface_3.x",
-  "description": "Supports SP/MG/EVO, Serial and IP150 connections.",
+  "slug": "paradox_alarm_interface_3.x.2nd",
+  "description": "2nd - Supports SP/MG/EVO, Serial and IP150 connections.",
   "uart": true,
   "url": "https://github.com/ParadoxAlarmInterface/pai",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
