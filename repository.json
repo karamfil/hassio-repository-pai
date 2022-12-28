@@ -1,5 +1,5 @@
 {
-  "name": "Paradox Alarm Interface Hass.io Add-on repository",
-  "url": "https://github.com/ParadoxAlarmInterface/hassio-repository",
+  "name": "FORKED Paradox Alarm Interface Hass.io Add-on repository",
+  "url": "https://github.com/karamfil/hassio-repository/pai",
   "maintainer": "Jevgeni Kiski <yozik04@gmail.com>"
 }
